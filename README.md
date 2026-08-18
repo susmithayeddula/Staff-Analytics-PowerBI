@@ -11,7 +11,6 @@ The dashboard provides insights into employee salary, departments, employee type
 ## 🛠️ Tools Used
 
 * Microsoft Power BI
-* Microsoft Excel
 
 ## 📌 Key Insights
 
